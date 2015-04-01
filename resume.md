@@ -1,100 +1,181 @@
-Johnny Coder
+Yasin Özel
 ============
 
-----
+-------------------     ----------------------------
+Güngören/İSTANBUL                        me@yozel.co
+                                         @yasin_ozel
+                                      0538 821 52 28
+-------------------     ----------------------------
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
-
-----
-
-Education
+Eğitim
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2012-2015
+:   **Bilgisayar Programcılığı**; İstanbul Üniversitesi Teknik Bilimler MYO
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2007-2011
+:   **Web Tasarım ve Programlama**; Bahçelievler Erkan Avcı Teknik Lisesi
 
-    *Minor: Awesomeology*
-
-Experience
+Deneyim
 ----------
 
-**Your Most Recent Work Experience:**
+**Markafoni:**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+***02/2015 - devam ediyor***; Junior Backend Developer
 
-* First item
+* Python, Django, Postgresql ile web yazılımı geliştiriciliği.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
 
-**That Other Job You Had**
+**Markafoni**
 
-Also with a short description.
+***12/2014 - 02/2015***; Backend Stajyeri
 
-Technical Experience
+* Python, Django, Postgresql ile web yazılımı geliştiriciliği.
+
+
+**Markafoni**
+
+***07/2014 - 09/2014***; IT Akademi Stajyeri
+
+* Python ve Django öğrencisi.
+
+
+**MyMarkTeam**
+
+***07/2013 - 09/2013***; Backend Developer
+
+* PHP, Mysql ve Codeigniter web geliştiriciliği
+
+
+**NS Bilişim Teknolojileri ve Güvenlik Sistemleri**
+
+***06/2010 - 07/2010***; Stajyer
+
+* PHP ve Mysql ile web geliştiriciliği
+
+
+**ABS Bilgi Sistemleri**
+
+***06/2009 - 07/2009***; Stajyer
+
+
+Yaptığım Projeler
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+[Çetinkaya] [cetinkaya]
+:   İçerik yönetim sistemi.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    * PHP
+    * CodeIgniter
+    * Mysql
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+[Serdar Kızılcan] [serdarkizilcan]
+:   İçerik yönetim sistemi.
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+    * PHP
+    * CodeIgniter
+    * Mysql
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+Yaptığım Özgür Projeler
+--------------------
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+[DOnamicDns] [donamicdns]
+:   DigitalOcean'ın DNS hizmetini Dynamic DNS olarak kullanarak
+    dinamik IP adresi olan ağlara bir ad tanımlamak için kullanılabilecek
+    bir script.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+    * Python
 
-[ref]: https://github.com/githubuser/superlongprojectname
+[OpenSocialMap] [opensocialmap]
+:   Sivil Toplum Kuruluşlarının bağlantılarının olduğu kişileri ekleyip bu
+    kişiler arasında görsel bağlantıları oluşturarak Network'lerini
+    görselleştirebileceği bir platform.
 
-Extra Section, Call it Whatever You Want
+    * Python
+    * Django
+    * ORM
+
+[alskdjBlog] [alskdjblog]
+:   Markafoni'deki stajım sırasında Python ve Django öğrenmemiz için bize
+    proje olarak verilen bir blog projesi.
+
+    * Python
+    * Django
+    * ORM
+    * Redis Cache
+    * Celery Task Queueing
+    * GetText Çeviri Modülü
+
+Bildiğim Programlama Dilleri ve Teknolojiler
+---------------------------------------------
+
+* Programlama / Biçimlendirme Dilleri
+
+    * **Python:** İyi
+        
+    * **PHP:** İyi
+
+    * **C#:** Orta
+
+    * **Javascript:** İyi
+
+    * **HTML:** İyi
+
+    * **CSS:** İyi
+
+* Framework ve Kütüpheneler
+
+    * **Django:** İyi
+
+    * **CodeIgniter:** Orta
+
+    * **Symfony:** Başlangıç
+
+    * **Jquery:** İyi
+
+    * **Knockout:** Başlangıç
+
+
+* Veritabanları
+
+    * **Mysql:** İyi
+
+    * **Postgresql:** Orta
+
+    * **Sqlite:** Orta
+
+
+* Teknolojiler
+
+    * **ORM:** İyi
+
+    * **OOP:** İyi
+
+    * **MVC:** İyi
+
+
+* İşletim Sistemleri
+
+    * **Linux:** İyi
+
+Sertifikalarım
+---------------
+
+* **Cisco Networking Academy** IT Essentials
+
+
+Diller
 ----------------------------------------
 
-* Human Languages:
+* Türkçe (anadil)
+* İngilizce (sınırlı çalışma yetkinliği)
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
 
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+[cetinkaya]: http://kurumsal.cetinkaya.com.tr
+[serdarkizilcan]: http://serdarkizilcan.com
+[donamicdns]: https://github.com/yozel/DOnamicDns
+[opensocialmap]: https://github.com/yozel/OpenSocialMap
+[alskdjblog]: https://github.com/yozel/alskdjBlog
