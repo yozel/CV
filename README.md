@@ -1,14 +1,9 @@
-The Markdown Resume
+Markdown CV
 ===================
 
-Instructions:
-
-    git clone https://github.com/mszep/pandoc_resume
+Yönergeler:
+    
+    sudo apt-get install pandoc context
+    git clone https://github.com/yozel/pandoc_resume
     cd pandoc_resume
-    vim resume.md   #insert your own resume info
     make
-
-Requirements:
-
- * ConTeXt
- * pandoc
