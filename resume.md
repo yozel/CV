@@ -13,9 +13,6 @@ Eğitim
 2012-2015
 :   **Bilgisayar Programcılığı**; İstanbul Üniversitesi Teknik Bilimler MYO
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
 2007-2011
 :   **Web Tasarım ve Programlama**; Bahçelievler Erkan Avcı Teknik Lisesi
 
